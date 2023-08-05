@@ -2,5 +2,4 @@
 | Название проекта | Описание | Используемые библиотеки | 
 | :---------------------- | :---------------------- | :---------------------- |
 | [Анализ поведения пользователей в мобильном приложении по продаже ненужных вещей](https://github.com/novad25/yandex_practikum_projects/blob/main/12.%20Выпускной%20проект/12_release_project.ipynb) | Анализ связи целевого события — просмотра контактов — и других действий пользователей. Оценка, какие действия чаще совершают те пользователи, которые просматривают контакты.| *pandas*, *matplotlib*, *datetime*, *seaborn*, *scipy*, *plotly*, *re* |
-[A/B-тестированией](https://github.com/novad25/yandex_practikum_projects/blob/main/12.%20Выпускной%20проект/12_ab_test.ipynb) | Требуется оценить результаты и корректность проведенного A/B теста.| *pandas*,  *datetime*, *seaborn*, *matplotlib*, *scipy*, *plotly*, *numpy*, *math* |
-v
+[A/B-тестирование](https://github.com/novad25/yandex_practikum_projects/blob/main/12.%20Выпускной%20проект/12_ab_test.ipynb) | Требуется оценить результаты и корректность проведенного A/B теста.| *pandas*,  *datetime*, *seaborn*, *matplotlib*, *scipy*, *plotly*, *numpy*, *math* |
